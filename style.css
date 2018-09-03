@@ -1,0 +1,136 @@
+body {
+    margin:0;
+
+}
+#header {
+    background-image: linear-gradient( RGBA(161, 35, 18), RGBA(128, 0, 0, .9)), url("mercedes.jpg");
+    height: 500px;
+    z-index: 10;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    
+}
+.formel1{
+    text-align: right;
+}
+.formel1 a {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+  
+    /*background-color: red;
+    opacity: 0.8;*/
+  
+}
+
+.formel1 .headertext {
+text-align: center;
+padding-right: 25px;
+color:white;
+margin: 0px;
+padding-top: 10px;
+
+
+}
+ header h1 {
+     text-align: center;
+     margin-top: 100px;
+
+}
+.drivers h2 {
+    text-align: center;
+}
+.f11 img {
+    width: 125px;
+    height: 125px;
+    margin: 15px;
+}
+
+
+/* .farg {
+    background-color: purple;
+   opacity: 0.8;
+} */
+
+.member {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 30px;
+}
+
+ 
+.f1 {
+    background-color: #f2f2f2;
+    text-align: center;    
+}
+.farg {
+    background-color: rgb(253, 14, 14);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 60px;
+}
+.place {
+    margin-top: 0px;
+    padding-top: 60px;
+    display: inline-block;
+    margin: 10px;
+    width: 320px;
+    
+}
+
+.h { 
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 3px;
+}
+
+.h .etikett {
+    color:auto;
+    text-decoration: none;
+}
+
+
+
+
+.footertext {
+    color: rgb(161, 164, 165);
+    text-align: center;
+    margin-bottom: 0 auto;
+}
+.footertext p {
+    margin: 0 auto;
+    padding: auto;
+    background-color: rgb(51, 46, 46);
+}
+.button {
+    width: 300px;
+    height: 30px;
+    background-color:pink;
+    border: none;
+    
+}
+.hoger {
+     position: relative;
+     list-style-image: right
+
+    }
+    .same {
+         width: 300px;
+          height: 30px;
+           background-color:white;
+           
+           
+    }
+        .all {
+        position: center;
+        display: inline-block;
+        display: inline;
+    }
+    .instagram {
+        text-align: center;
+        }
